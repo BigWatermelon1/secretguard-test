@@ -1,0 +1,1 @@
+{"id":"8587b5fdfb2cc04ac284a5c67ea7a6673711eccd","repo":"C:\\hubu\\SecretGuard\\secretguard-test","file":"config.txt","match_type":"GenericAPIKey","matched":"*****","context":"API_KEY = abcdefghijklmnop123456\r\n","entropy":2.807354922057604,"rule":"GenericAPIKey","risk":"MEDIUM","time":"2025-09-17T17:25:33.3522069+08:00"}
