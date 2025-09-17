@@ -1,1 +1,1 @@
-API_KEY = abcdefghijklmnop123456
+{{SECRET_REDACTED}} = abcdefghijklmnop123456
